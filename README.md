@@ -5,7 +5,7 @@
  -  [Installation](#installation)
  - [File Descriptions](#files)
  - [Get Started](#get_start)
- - [Findings](#finding)
+ - [Implementation](#finding)
  - [Licensing  and Authors](#L&A)
   
 <a name="overview"></a>
