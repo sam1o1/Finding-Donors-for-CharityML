@@ -35,7 +35,7 @@ If you do not have Python installed yet, it is highly recommended that you insta
  <a name="get_start"></a>
 Use the following command to download the files : 
 
-    gut https://github.com/sam1o1/Finding-Donors-for-CharityML
+    git https://github.com/sam1o1/Finding-Donors-for-CharityML
 
 <a name="finding"></a>
 ## Implementation 
